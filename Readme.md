@@ -1,6 +1,6 @@
 ## Telegram bot
 
-1. `bot new gitignore`
+1. `dotnet new gitignore`
 2. `git init`
 3. `git add .`
 4. `git commit -m "nimadir message"`
